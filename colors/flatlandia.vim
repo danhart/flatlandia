@@ -28,7 +28,7 @@ hi VertSplit guifg=#2d3033 guibg=#2d3033 guisp=#2d3033 gui=NONE ctermfg=237 cter
 hi LineNr guifg=#515253 guibg=#2c2f31 guisp=#2c2f31 gui=NONE ctermfg=238 ctermbg=235 cterm=NONE
 hi TabLineFill guifg=#e2e4e5 guibg=#212325 guisp=#212325 gui=NONE ctermfg=254 ctermbg=234 cterm=NONE
 hi TabLine guifg=#797a7b  guibg=#212325 guisp=#212325 gui=NONE ctermfg=248 ctermbg=234 cterm=NONE
-hi TabLineSel gui=bold guifg=#c9cacb ctermfg=248 ctermbg=234 cterm=NONE
+hi TabLineSel gui=bold guifg=#c9cacb ctermfg=248 ctermbg=235 cterm=NONE
 
 "hi CTagsGlobalConstant -- no settings --
 hi ErrorMsg guifg=#f8f8f8 guibg=#ad3725 guisp=#ad3725 gui=NONE ctermfg=15 ctermbg=124 cterm=NONE
